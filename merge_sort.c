@@ -20,7 +20,7 @@ void merge(int A[],int mid,int l,int h){
         B[k]=A[i];
         i++;
         k++;
-    }
+    }k
     while(j<=h){
         B[k]=A[j];
         j++;
